@@ -285,11 +285,11 @@
   },
   {
     "questions": ["Is Python or Java required for this course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Can I use a language other than Python or Java"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["How many essays will I have to write"],

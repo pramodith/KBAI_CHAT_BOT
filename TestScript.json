@@ -806,5 +806,87 @@
    {
         "questions":["Are the projects still based on RPM's"],
         "response":"actually, now the goal is to build skynet."
-    }
+    },
+   {
+        "questions":["Who is the frog"],
+        "response":"I do not know.",
+        "replace": "Kermit"
+    },
+   {
+        "questions":["What is the frog's name"],
+        "response":"Kermit"
+    },
+
+
+
+
+  {
+    "questions": ["Is there an easy way to navigate through the course readings associate with certain lecture?"],
+    "response": "I do not know.",
+    "replace": "Please check CS7637_ Optional Reading List (Fall 2017).xlsx from KBAI class documents."
+
+  },
+  {
+    "questions": ["Is there an easy way to navigate through the course readings associate with certain lecture?"],
+    "response": "Please check CS7637_ Optional Reading List (Fall 2017).xlsx from KBAI class documents."
+
+  },
+  {
+    "questions": ["How do I find the readings associate with certain lecture?"],
+    "response": "Please check CS7637_ Optional Reading List (Fall 2017).xlsx from KBAI class documents."
+  },
+  {
+    "questions": ["How do I find the readings associate with certain lecture?"],
+    "response": "Please check CS7637_ Optional Reading List (Fall 2017).xlsx from KBAI class documents.",
+    "replace": "Please check CS7637_ Optional Reading List (Spring 2018).xlsx from KBAI class documents."
+  },
+  {
+    "questions": ["How do I find the readings associate with certain lecture?"],
+    "response": "Please check CS7637_ Optional Reading List (Spring 2018).xlsx from KBAI class documents."
+  },
+
+  {
+    "questions": ["Is there a word-count limit for the midterm and what is it?"],
+    "response": "I do not know.",
+    "replace": "The word count limit is 2000 words."
+  },
+  {
+    "questions": ["Is there a word-count limit for the midterm and what is it?"],
+    "response": "The word count limit is 2000 words."
+  },
+  {
+    "questions": ["What is the limit on the word count for the midterm?"],
+    "response": "The word count limit is 2000 words."
+  },
+  {
+    "questions": ["What is the midterm word count limit?"],
+    "response": "The word count limit is 2000 words.",
+    "replace": "The word count limit is 3000 words."
+  },
+  {
+    "questions": ["Is there a word-count limit for the midterm and what is it?"],
+    "response": "The word count limit is 3000 words."
+  },
+  {
+    "questions": ["Are we supposed to do 9 peer feedbacks for project 1?"],
+    "response": "I do not know.",
+    "replace": "No"
+  },
+  {
+    "questions": ["Are we supposed to do 9 peer feedbacks for project 1?"],
+    "response": "No"
+  },
+  {
+    "questions": ["I received 9 peer feedback requests for project 1, do I need to do them all??"],
+    "response": "No",
+    "replace": "No, there was a mistake made, you only need to choose three."
+  },
+  {
+    "questions": ["I received 9 peer feedback requests, do I need to do them all??"],
+    "response": "No, there was a mistake made, you only need to choose three."
+  },
+  {
+    "questions": ["I received nine peer feedback requests, do I need to do them all??"],
+    "response": "No, there was a mistake made, you only need to choose three."
+  }
 ]

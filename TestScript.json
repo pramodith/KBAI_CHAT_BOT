@@ -285,11 +285,11 @@
   },
   {
     "questions": ["Is Python or Java required for this course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Can I use a language other than Python or Java"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["How many essays will I have to write"],
@@ -357,7 +357,7 @@
   },
   {
     "questions": ["When can we expect to receive grades after a submission"],
-    "response": "2 weeks after the original submission."
+    "response": "2 weeks after the original submission"
   },
   {
     "questions": ["Do the grades assigned to me by peers affect my grade"],
@@ -377,7 +377,7 @@
   },
   {
     "questions": ["What have the grade statistics for this class been in the past"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What are the individual weights of the 2 unproctored exams"],
@@ -393,7 +393,7 @@
   },
   {
     "questions": ["What is the word limit for each assignment"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What topics do the assignments cover"],
@@ -441,11 +441,11 @@
   },
   {
     "questions": ["How often should you check your Georgia Tech email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["Where should you preferably post your questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["What questions are better suited for office hours"],
@@ -461,39 +461,39 @@
   },
   {
     "questions": ["How often will office hours be held"],
-    "response": "Weekly."
+    "response": "Weekly"
   },
   {
     "questions": ["How frequent are office hours held"],
-    "response": "Weekly."
+    "response": "Weekly"
   },
   {
     "questions": ["Will office hours be recorded and posted"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["How should you reach out to instructors about private issues like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How will I be able to participate in office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How can I join office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How do I join office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How can I participate in office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How can I attend office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["What is the purpose of office hours"],
@@ -517,11 +517,11 @@
   },
   {
     "questions": ["What if I have an emergency and cannot submit my work on time"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What kind of issues can I bring up to the Dean of Student's office"],
-    "response": "Justifiable excuses would involve any major unforeseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family."
+    "response": "Justifiable excuses would involve any major unforeseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family"
   },
   {
     "questions": ["What kind of conflict am I liable for"],
@@ -545,7 +545,7 @@
   },
   {
     "questions": ["How can I contact the Dean of Student's office"],
-    "response": "You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance."
+    "response": "You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance"
   },
   {
     "questions": ["What if my conflict falls during the final"],
@@ -553,15 +553,15 @@
   },
   {
     "questions": ["When are assignments due"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["Where can I find the course calendar"],
-    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit."
+    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit"
   },
   {
     "questions": ["Where is the course syllabus"],
-    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit."
+    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit"
   },
   {
     "questions": ["Where can I find assignment 1"],

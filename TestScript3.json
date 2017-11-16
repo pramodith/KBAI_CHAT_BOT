@@ -1,55 +1,55 @@
 [
   {
     "questions": ["What is the FAQ version"],
-    "response": "Version 20171026."
+    "response": "Version 20171026"
   },
   {
     "questions": ["Which Faq are you using"],
-    "response": "Version 20171026."
+    "response": "Version 20171026"
   },
   {
     "questions": ["Which FAQ version we're using"],
-    "response": "Version 20171026."
+    "response": "Version 20171026"
   },
   {
     "questions": ["What FAQ version is used"],
-    "response": "Version 20171026."
+    "response": "Version 20171026"
   },
   {
     "questions": ["What is the version of FAQ"],
-    "response": "Version 20171026."
+    "response": "Version 20171026"
   },
   {
     "questions": ["Which version of FAQ is used"],
-    "response": "Version 20171026."
+    "response": "Version 20171026"
   },
   {
     "questions": ["Which For Any Questions are you using"],
-    "response": "Version 20171026."
+    "response": "Version 20171026"
   },
   {
     "questions": ["What would be the version of FAQ"],
-    "response": "Version 20171026."
+    "response": "Version 20171026"
   },
   {
     "questions": ["Which FAQ version is used in the class"],
-    "response": "Version 20171026."
+    "response": "Version 20171026"
   },
   {
     "questions": ["Which FAQ version is used in the course"],
-    "response": "Version 20171026."
+    "response": "Version 20171026"
   },
   {
     "questions": ["What FAQ version is used in KBAI"],
-    "response": "Version 20171026."
+    "response": "Version 20171026"
   },
   {
     "questions": ["What is the version of For Any Questions"],
-    "response": "Version 20171026."
+    "response": "Version 20171026"
   },
   {
     "questions": ["What FAQ do we use in the class"],
-    "response": "Version 20171026."
+    "response": "Version 20171026"
   },
   {
     "questions": ["What are the course components"],
@@ -1413,127 +1413,127 @@
   },
   {
     "questions": ["Is Python or Java required for this course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Is Java or Python obligatory for this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Is Python or Java compulsory for this course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Is Java or Python mandatory for this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Is Python or Java essential for this KBAI class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Is Python or Java vital for this KBAI course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Is Java or Python necessary for the course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Is Python required for this course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Is Java obligatory for this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Is Python essential for this course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Is Java mandatory for this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Can I use a language other than Python or Java"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["May I code in a programming language other than Python or Java"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Can I write in a language other than Python or Java"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Am I allowed to use another language other than Python or Java"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Can I utilize a language other than Python or Java"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["May I program in a language other than Python or Java"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Can I use a programming language other than Python"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Can I code in a programming language other than Java"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Can I write in a language other than recommended in class"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["May I use another language other than demanded in the course"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Can I utilize another language other than Python and Java"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Can I program in a language other than Java or Python"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Can I use a PHP language"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Can I use a C++ language"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Can I use a Ruby language"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Can I use a JavaScript programming language"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Am I allowed to use other programming languages"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Can I use other programming languages writing codes"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Would it be OK to use other programming languages for assignments"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["Can I use other programming languages to code"],
-    "response": "No."
+    "response": "No"
   },
   {
     "questions": ["How many essays will I have to write"],
@@ -1653,91 +1653,91 @@
   },
   {
     "questions": ["Will I have to do additional reading for this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Do I have to do additional reading for this course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Would I have to do additional reading for this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Should I do additional reading for the class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Must I do additional reading for KBAI course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will I have to do extra reading for this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Do I have to do more reading for KBAI class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Would I have to do supplementary reading for this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Can I do further reading for the course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["May I do more reading for this KBAI class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Do you expect me to read additional material for this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Do I have to do read supplementary reading for this course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Are the deadlines for assignments fixed"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Are the due dates for assignments fixed"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Are the deadlines for homeworks flexible"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Are the due dates for projects fixed"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Is deadlines for submitting works fixed"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Are the deadlines for submitting assignments flexible"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Are the due dates for assignments set"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Is the deadline for homeworks flexible"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Are the due dates for projects set"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Are deadlines for submitting works final"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["How much time does the class demand"],
@@ -1789,75 +1789,75 @@
   },
   {
     "questions": ["Will I have to adhere to Georgia Tech code of conduct to take this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Do I have to obey to GaTech rules to take this course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will I have to follow to School's code of conduct to be enrolled in this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Am I expected to stick to GeorgiaTech code of conduct to take this course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will I have to uphold to Georgia Institute of Technology code of conduct to study this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Do I have to stick to GT's rules of social norms to take this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will I have to adhere to institution's code of conduct to take this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will I have to obey to college's proper practices to participate this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Must I follow to university's code of conduct to take this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will I have to stick to Georgia Inst of Tech code of conduct to take this course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Do I have to uphold to Georgia Tech university set of conduct rules to participate this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will I have to stick to uni's code of conduct to take this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Do I have to adhere to Georgia Tech code of conduct to partake this course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will I have to obey to GaTech rules to enroll in this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Do I have to follow to School's code of conduct to be this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will I have to stick to GeorgiaTech code of conduct to study in this course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Am I obligated to adhere to Georgia Tech code of conduct to take this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Must I obey to Georgia Tech code of conduct to take this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Where can I find the reading list"],
@@ -2233,47 +2233,47 @@
   },
   {
     "questions": ["When can we expect to receive grades after a submission"],
-    "response": "2 weeks after the original submission."
+    "response": "2 weeks after the original submission"
   },
   {
     "questions": ["After a submission, when can we expect to receive grades"],
-    "response": "2 weeks after the original submission."
+    "response": "2 weeks after the original submission"
   },
   {
     "questions": ["After submitting assignments, when can we expect to receive grades"],
-    "response": "2 weeks after the original submission."
+    "response": "2 weeks after the original submission"
   },
   {
     "questions": ["After a submission, when should we expect to receive marks"],
-    "response": "2 weeks after the original submission."
+    "response": "2 weeks after the original submission"
   },
   {
     "questions": ["When do we expect to receive grades after a submission"],
-    "response": "2 weeks after the original submission."
+    "response": "2 weeks after the original submission"
   },
   {
     "questions": ["When can we await to receive marks after a submission"],
-    "response": "2 weeks after the original submission."
+    "response": "2 weeks after the original submission"
   },
   {
     "questions": ["When should we await to receive marks after a submission"],
-    "response": "2 weeks after the original submission."
+    "response": "2 weeks after the original submission"
   },
   {
     "questions": ["After a submission, how long should we await to receive grades"],
-    "response": "2 weeks after the original submission."
+    "response": "2 weeks after the original submission"
   },
   {
     "questions": ["When can we expect to get grades after a submission"],
-    "response": "2 weeks after the original submission."
+    "response": "2 weeks after the original submission"
   },
   {
     "questions": ["When should we expect to get marks after a submission"],
-    "response": "2 weeks after the original submission."
+    "response": "2 weeks after the original submission"
   },
   {
     "questions": ["When do we expect to get marks after a submission"],
-    "response": "2 weeks after the original submission."
+    "response": "2 weeks after the original submission"
   },
   {
     "questions": ["Do the grades assigned to me by peers affect my grade"],
@@ -2325,51 +2325,51 @@
   },
   {
     "questions": ["How will grades be released"],
-    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent\u2019s performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the gradebook. Checkmarks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
+    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent's performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the grade book. Check marks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
   },
   {
     "questions": ["How will marks be published"],
-    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent\u2019s performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the gradebook. Checkmarks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
+    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent's performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the grade book. Check marks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
   },
   {
     "questions": ["How will grades be posted"],
-    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent\u2019s performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the gradebook. Checkmarks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
+    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent's performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the grade book. Check marks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
   },
   {
     "questions": ["How will grades be announced"],
-    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent\u2019s performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the gradebook. Checkmarks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
+    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent's performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the grade book. Check marks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
   },
   {
     "questions": ["How will marks be issued"],
-    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent\u2019s performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the gradebook. Checkmarks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
+    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent's performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the grade book. Check marks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
   },
   {
     "questions": ["How will scores be broadcasted"],
-    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent\u2019s performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the gradebook. Checkmarks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
+    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent's performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the grade book. Check marks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
   },
   {
     "questions": ["How will you release grades"],
-    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent\u2019s performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the gradebook. Checkmarks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
+    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent's performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the grade book. Check marks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
   },
   {
     "questions": ["How will you publish marks"],
-    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent\u2019s performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the gradebook. Checkmarks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
+    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent's performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the grade book. Check marks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
   },
   {
     "questions": ["How scores will be posted"],
-    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent\u2019s performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the gradebook. Checkmarks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
+    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent's performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the grade book. Check marks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
   },
   {
     "questions": ["How marks going to be announced"],
-    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent\u2019s performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the gradebook. Checkmarks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
+    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent's performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the grade book. Check marks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
   },
   {
     "questions": ["How grades gonna be issued"],
-    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent\u2019s performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the gradebook. Checkmarks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
+    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent's performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the grade book. Check marks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
   },
   {
     "questions": ["How marks will be broadcasted"],
-    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent\u2019s performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the gradebook. Checkmarks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
+    "response": "Grades will generally be released via both T-Square and Peer Feedback. Written feedback from the graders, however, will only be released via Peer Feedback. For Projects, sub-scores for your agent's performance on the problems and for your project reflection will be returned via the assignment submission page, and the overall project score will be posted to the grade book. Check marks for Peer Feedback participation will be provided throughout the semester via the assignment submission pages for those tasks, and a final Peer Feedback score (based both on completion and quality of participation) will be assigned at the end of the semester."
   },
   {
     "questions": ["Are there fixed thresholds for grades"],
@@ -2405,235 +2405,235 @@
   },
   {
     "questions": ["Will there be curving of grade"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will you curve grades"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will curving of scores take place"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will you do curving of marks"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will this class have curving of grade"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will there be marks curving"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will grades curving take place"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will grades curving occur in this class"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will there be curving of grade in the course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["Will you curve grades in this course"],
-    "response": "Yes."
+    "response": "Yes"
   },
   {
     "questions": ["What have the grade statistics for this class been in the past"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What have been the grade statistics for this course in the past"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What was the grade stats for this class in the past"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What is the grade statistics for this course in the past"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What have the grade figure for this class been in previous semesters"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What have the grade stats for this course been in the last class"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What have the grade statistics for this class been in the last semester"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What grade statistics did this class have in the past"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What grade figures had this class have in the previous semester"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What have the mark stats for this class been in the past"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What have been the score statistics for this course in the past"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What was the mark statistics for this class in the past"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What is the score figures for this course in the past"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What have the mark stats for this class been in previous semesters"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What have the score values for this class been in the last course"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What have the mark stats for this class been in the last semester"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What score statistics did this course have in the past"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What mark statistics had this class have in the previous semester"],
-    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though."
+    "response": "For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though"
   },
   {
     "questions": ["What are the word limits for the assignments"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What are the word cap for the assignments"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What are the word restriction for the assignments"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What are the word ceiling for the assignments reports"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What are the word count for the assignments reports"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is the maximum number of word for the assignments"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What are the word limits for the homeworks reports"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What are the word cap for the homeworks"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What are the word restriction for the homework reflections"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What are the word ceiling for the homeworks"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What are the word count for the homeworks reports"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is the maximum number of word for the homeworks"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is the assignments' word limit"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is the homeworks word limits"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What are the individual weights of the 2 unproctored exams"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the respective weights of the midterm and final exams"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the specific weights of the two un-proctored examination"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the weights for each of the 2 unproctored exams"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the weights associated of the 2 un-proctored examination"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the weights for 2 unproctored exams"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the individual importance of the two exams"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the respective value of the 2 unproctored midterm and final exams"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the specific importance of the 2 un protected exams"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the values for each of the two unproctored exams"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the weights associated of the two examination"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the values for 2 unproctored exams"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the distinct weights of the 2 unproctored exams"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the respective weights on the midterm and final examination"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the specific weights of each one of un-proctored exams"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What are the individual weights of each of the unproctored exams"],
-    "response": "15% for mid-term exam and 20% for final exam."
+    "response": "15% for mid-term exam and 20% for final exam"
   },
   {
     "questions": ["What should I do to get good grades on this class"],
@@ -2777,71 +2777,71 @@
   },
   {
     "questions": ["What is the word limit for each assignment"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is the word count for each assignment"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is the word limit for each homeworks"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is the word limit for each project"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is the word count for each work"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is the limit of word for each assignments"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is the word cap for each assignment"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is maximum number of word for each homework"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is max number of word limit for each project"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is the word restrain for each of my work"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is the limit of word for each of my assignments"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is the word restriction for each assignment"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is the word ceiling for each assignment"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is each assignments word limit"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is each assignment's word limit"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is each homeworks' word limit"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What is each project's word limit"],
-    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)."
+    "response": "Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)"
   },
   {
     "questions": ["What topics do the assignments cover"],
@@ -3681,171 +3681,171 @@
   },
   {
     "questions": ["How often should you check your Georgia Tech email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How often should I check my Georgia Tech email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How many times should you check your GaTech email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How often must you check your university email account"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How often should you check your school email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How often should you check your Georgia Institute of Technology email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How frequently should you check your Georgia Tech email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How many times do I have to check my Georgia Tech email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How frequently should you check your GaTech email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How frequently should you check your university email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How frequently do you have to check your school email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How many times should you open your Georgia Tech mail"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How often must I open my Georgia Tech mail account"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How often should you open your GaTech mail account"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How often should you open your university mail"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How often should you open your uni's email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How many times should I open my school email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How often it's advised to check Georgia Tech email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How often do you recommend to check Georgia Tech email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How often do you advise to check Georgia Tech email account"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["How often would you suggest to check Georgia Tech email"],
-    "response": "Once every 24 hours."
+    "response": "Once every 24 hours"
   },
   {
     "questions": ["Where should you preferably post your questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where can you preferably post your questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where should I preferably post my questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where can I preferably post my questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where would you prefer us to post questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where would you prefer me to post questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where should you preferably publish your questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where should we preferably publish our questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where should I preferably publish my questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where would you prefer us to publish our questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where would you prefer me to publish questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where should you preferably post your inquiries"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where would you prefer us to post our inquiries"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where would you prefer me to publish inquiries"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where would you prefer me to list questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where should you preferably put your inquiries"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where do you prefer us to list our inquiries"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where would you prefer me to put my inquiries"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where should you preferably place questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where do you want us to put my inquiries"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["Where do you want me to place questions"],
-    "response": "Piazza."
+    "response": "Piazza"
   },
   {
     "questions": ["What questions are better suited for office hours"],
@@ -4105,315 +4105,315 @@
   },
   {
     "questions": ["Will office hours be recorded and posted"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["Will you record and post office hours"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["Will recorded office hours be posted"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["Will you post recorded office hours"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["Will office hours be recorded and published"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["Will you record and publish office hours"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["Will recorded office hours be published"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["Will you publish recorded office hours"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["Will office hours be filmed and published"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["Will you film and publish office hours"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["Will filmed office hours be published"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["Will you publish filmed office hours"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["Do you record and post office hours"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["Do you publish recorded office hours"],
-    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza."
+    "response": "No, but if there is anything relevant to the whole class it will be recorded and posted on Piazza"
   },
   {
     "questions": ["How should you reach out to instructors about private issues like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How can you reach out to instructors about private matter like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How to reach out to professor about private issues like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How may you reach out to teachers about private matter like marks"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How will you reach out to instructors about private issues such as scores"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How should I reach out to coaches about private problems like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How can I reach out to teachers about private matter like marks"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How may I reach out to instructors about private issues like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How will I reach out to teaching staff about private matter like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How should you reach out to teaching staff about private issues like marks"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How can you reach out to teaching staff about private problems like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How to reach out to teaching staff about private issues like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How may you reach out to teaching staff about private matter such as marks"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How will you reach out to teaching staff about private issues like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How should you reach out to mentors regarding private issues like marks"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How can you reach out to instructors concerning private problems like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How to reach out to instructors regarding private issues like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How may you reach out to instructors concerning private matter such as grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How will you reach out to instructors regarding private issues like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How should I reach out to instructors concerning private problems like marks"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How can I reach out to instructors regarding private issues like scores"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How to reach out to tutors concerning private issues like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How may I reach out to Teaching Assistants regarding private matter like scores"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How will I reach out to instructors concerning private issues such as grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How should you reach out to instructors regarding personal issues like marks"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How can you reach out to instructors concerning personal problems like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How to reach out to instructors regarding private personal like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How may you reach out to instructors concerning personal issues like scores"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How will you reach out to tutors regarding confidential matter like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How should I reach out to TAs concerning personal issues like marks"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How can I reach out to instructors regarding personal problems like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How to reach out to Teaching Assistants concerning personal issues such as grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How may I reach out to instructors regarding personal issues like scores"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How will I reach out to TAs concerning personal matter like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How should you reach out to instructors regarding confidential issues like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How can you reach out to instructors concerning private problems like scores"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How to reach out to Teaching Assistants regarding private issues such as marks"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How may you reach out to instructors about private issues like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How will you reach out to TAs regarding confidential matter like scores"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How should I reach out to instructors concerning private issues such as grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How can I reach out to TAs regarding confidential issues like marks"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How to reach out to instructors concerning private matter like grades"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How may I reach out to instructors regarding private issues such as scores"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How will I reach out to instructors concerning confidential matter like marks"],
-    "response": "Post a private Piazza message visible only to the instructors."
+    "response": "Post a private Piazza message visible only to the instructors"
   },
   {
     "questions": ["How will I be able to participate in office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How can I be able to participate in office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How can I participate in office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How to participate in office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How will I be able to take part in office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How will I be able engage in office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How will I be able to join office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How will I be able to watch office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How will I be able to go to the office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How can I be able to take part in office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How can I engage in office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How can I join office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How can I watch office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How can I go to the office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How to engage in office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How to join office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How to watch office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How to go to the office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How to get involved in office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["How partake in office hours"],
-    "response": "Via the Webex link available on Piazza."
+    "response": "Via the Webex link available on Piazza"
   },
   {
     "questions": ["What is the purpose of office hours"],
@@ -4837,99 +4837,99 @@
   },
   {
     "questions": ["What if I have an emergency and cannot submit my work on time"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I cannot submit my work on time due to an emergency"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I have an emergency and cannot turn in my work on time"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I cannot turn in my work on time due to an emergency"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I can't submit my work on time because I have an emergency"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I cannot submit my work on time because of emergency"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I have an accident and can't submit my work on time"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I have an accident and cannot submit my work on time"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I have an accident and can't turn in my work on time"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I have an emergency and cannot submit my assignment on time"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I have an emergency and cannot submit my project on time"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I have an emergency and cannot submit my paper on time"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I cannot submit my assignment on time due to an emergency"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I cannot submit my project on time because of an emergency"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I cannot submit my work on time due to an urgent situation"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I have an urgent situation and cannot submit my work on time"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I cannot submit my work on time because of an urgent case"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I have an urgent case and cannot submit my assignment on time"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I have an emergency and cannot submit my homework on time"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I cannot submit my homework on time due to an emergency"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I have an emergency and cannot submit my test on time"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I cannot submit my exam on time due to an emergency"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I am experiencing an emergency and cannot submit my work on time"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What if I cannot submit my work on time because of an urgent situation"],
-    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office."
+    "response": "If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office"
   },
   {
     "questions": ["What kind of issues can I bring up to the Dean of student's office"],
@@ -5349,722 +5349,722 @@
   },
   {
     "questions": ["When are assignments due"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["When all assignments are due"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["When class assignments are due"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["When course assignments are due"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["When assignments of the course are due"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["When assignments of this class are due"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["When will the assignments be due"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["What is the due date for assignments"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["What is the due date for homework"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["What is the due date for course work"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["What is the due date for projects"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["When class homework are due"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["When KBAI assignments are due"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["When KBAI homework is due"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["What is assignments due dates schedule"],
-    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time."
+    "response": "All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time"
   },
   {
     "questions": ["Where can I find the course calendar"],
-    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit."
+    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit"
   },
   {
     "questions": ["Where to find KBAI course calendar"],
-    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit."
+    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit"
   },
   {
     "questions": ["Where to locate course calendar"],
-    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit."
+    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit"
   },
   {
     "questions": ["Where to obtain course calendar"],
-    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit."
+    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit"
   },
   {
     "questions": ["Where to get this class's calendar"],
-    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit."
+    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit"
   },
   {
     "questions": ["Where to acquire the KBAI calendar"],
-    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit."
+    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit"
   },
   {
     "questions": ["Where to get hold of the calendar for the class"],
-    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit."
+    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit"
   },
   {
     "questions": ["Where is the course calendar"],
-    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit."
+    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit"
   },
   {
     "questions": ["Where is the class calendar"],
-    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit."
+    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit"
   },
   {
     "questions": ["Where is the calendar for this course"],
-    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit."
+    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit"
   },
   {
     "questions": ["Where is the calendar for the class"],
-    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit."
+    "response": "https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit"
   },
   {
     "questions": ["Where can I find assignment 1"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find assignment one"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find assignment 1"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find assignment one"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is assignment 1"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is assignment one"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is the first assignment"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find the first assignment"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find first assignment"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where assignment 1 is located"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where assignment 1 is posted"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where assignment 1 is published"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to locate assignment 1"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find assignment 2"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find assignment two"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find assignment 2"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find assignment two"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is assignment 2"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is assignment two"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is the second assignment"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find the second assignment"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find second assignment"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where assignment 2 is located"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where assignment 2 is posted"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where assignment 2 is published"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to locate assignment 2"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find assignment 3"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find assignment three"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find assignment 3"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find assignment three"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is assignment 3"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is assignment three"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is the last assignment"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find the last assignment"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find last assignment"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where assignment 3 is located"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where assignment 3 is posted"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where assignment 3 is published"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to locate assignment 3"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find project 1"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find project one"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find project 1"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find project one"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is project 1"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is project one"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is the first project"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find the first project"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find first project"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where project 1 is located"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where project 1 is posted"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where project 1 is published"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to locate project 1"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find project 2"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find project two"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find project 2"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find project two"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is project 2"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is project two"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is the second project"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find the second project"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find second project"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where project 2 is located"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where project 2 is posted"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where project 2 is published"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to locate project 2"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find project 3"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find project three"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find project 3"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to locate project 3"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find project three"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is project 3"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is project three"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where is the last project"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where to find the last project"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where can I find last project"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where project 3 is located"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where project 3 is posted"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["Where project 3 is published"],
-    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc."
+    "response": "https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc"
   },
   {
     "questions": ["When is assignment 1 due"],
-    "response": "Week of August 28th."
+    "response": "Week of August 28th"
   },
   {
     "questions": ["When assignment one is due"],
-    "response": "Week of August 28th."
+    "response": "Week of August 28th"
   },
   {
     "questions": ["When assignment 1 is due"],
-    "response": "Week of August 28th."
+    "response": "Week of August 28th"
   },
   {
     "questions": ["When the first assignment is due"],
-    "response": "Week of August 28th."
+    "response": "Week of August 28th"
   },
   {
     "questions": ["When is the last day for assignment 1"],
-    "response": "Week of August 28th."
+    "response": "Week of August 28th"
   },
   {
     "questions": ["What is the due date for the first assignment"],
-    "response": "Week of August 28th."
+    "response": "Week of August 28th"
   },
   {
     "questions": ["What is the due date for assignment 1"],
-    "response": "Week of August 28th."
+    "response": "Week of August 28th"
   },
   {
     "questions": ["When is assignment 2 due"],
-    "response": "Week of September 25th."
+    "response": "Week of October 30th"
   },
   {
     "questions": ["When assignment two is due"],
-    "response": "Week of September 25th."
+    "response": "Week of October 30th"
   },
   {
     "questions": ["When assignment 2 is due"],
-    "response": "Week of September 25th."
+    "response": "Week of October 30th"
   },
   {
     "questions": ["When the second assignment is due"],
-    "response": "Week of September 25th."
+    "response": "Week of October 30th"
   },
   {
     "questions": ["When is the last day for assignment 2"],
-    "response": "Week of September 25th."
+    "response": "Week of October 30th"
   },
   {
     "questions": ["What is the due date for the second assignment"],
-    "response": "Week of September 25th."
+    "response": "Week of October 30th"
   },
   {
     "questions": ["What is the due date for assignment 2"],
-    "response": "Week of September 25th."
+    "response": "Week of October 30th"
   },
   {
     "questions": ["When is assignment 3 due"],
-    "response": "Week of October 30th."
+    "response": "Week of October 30th"
   },
   {
     "questions": ["When assignment three is due"],
-    "response": "Week of October 30th."
+    "response": "Week of October 30th"
   },
   {
     "questions": ["When assignment 3 is due"],
-    "response": "Week of October 30th."
+    "response": "Week of October 30th"
   },
   {
     "questions": ["When the last assignment is due"],
-    "response": "Week of October 30th."
+    "response": "Week of October 30th"
   },
   {
     "questions": ["When is the last day for assignment 3"],
-    "response": "Week of October 30th."
+    "response": "Week of October 30th"
   },
   {
     "questions": ["What is the due date for the last assignment"],
-    "response": "Week of October 30th."
+    "response": "Week of October 30th"
   },
   {
     "questions": ["What is the due date for assignment 3"],
-    "response": "Week of October 30th."
+    "response": "Week of October 30th"
   },
   {
     "questions": ["When is project 1 due"],
-    "response": "Week of September 4th."
+    "response": "Week of September 4th"
   },
   {
     "questions": ["When project one is due"],
-    "response": "Week of September 4th."
+    "response": "Week of September 4th"
   },
   {
     "questions": ["When project 1 is due"],
-    "response": "Week of September 4th."
+    "response": "Week of September 4th"
   },
   {
     "questions": ["When the first project is due"],
-    "response": "Week of September 4th."
+    "response": "Week of September 4th"
   },
   {
     "questions": ["When is the last day for project 1"],
-    "response": "Week of September 4th."
+    "response": "Week of September 4th"
   },
   {
     "questions": ["What is the due date for the first project"],
-    "response": "Week of September 4th."
+    "response": "Week of September 4th"
   },
   {
     "questions": ["What is the due date for project 1"],
-    "response": "Week of September 4th."
+    "response": "Week of September 4th"
   },
   {
     "questions": ["When is project 2 due"],
-    "response": "Week of October 9th."
+    "response": "Week of October 9th"
   },
   {
     "questions": ["When project two is due"],
-    "response": "Week of October 9th."
+    "response": "Week of October 9th"
   },
   {
     "questions": ["When project 2 is due"],
-    "response": "Week of October 9th."
+    "response": "Week of October 9th"
   },
   {
     "questions": ["When the second project is due"],
-    "response": "Week of October 9th."
+    "response": "Week of October 9th"
   },
   {
     "questions": ["When is the last day for project 2"],
-    "response": "Week of October 9th."
+    "response": "Week of October 9th"
   },
   {
     "questions": ["What is the due date for the second project"],
-    "response": "Week of October 9th."
+    "response": "Week of October 9th"
   },
   {
     "questions": ["What is the due date for project 2"],
-    "response": "Week of October 9th."
+    "response": "Week of October 9th"
   },
   {
     "questions": ["When is project 3 due"],
-    "response": "Week of November 6th."
+    "response": "Week of November 6th"
   },
   {
     "questions": ["When project three is due"],
-    "response": "Week of November 6th."
+    "response": "Week of November 6th"
   },
   {
     "questions": ["When project 3 is due"],
-    "response": "Week of November 6th."
+    "response": "Week of November 6th"
   },
   {
     "questions": ["When the last project is due"],
-    "response": "Week of November 6th."
+    "response": "Week of November 6th"
   },
   {
     "questions": ["When is the last day for project 3"],
-    "response": "Week of November 6th."
+    "response": "Week of November 6th"
   },
   {
     "questions": ["What is the due date for project 3"],
-    "response": "Week of November 6th."
+    "response": "Week of November 6th"
   },
   {
     "questions": ["What is the due date for the last project"],
-    "response": "Week of November 6th."
+    "response": "Week of November 6th"
   },
   {
     "questions": ["What is the due date for project 3"],
-    "response": "Week of November 6th."
+    "response": "Week of November 6th"
   },
   {
     "questions": ["When is the midterm"],
-    "response": "Week of October 2nd."
+    "response": "Week of October 2nd"
   },
   {
     "questions": ["When is the date of midterm"],
-    "response": "Week of October 2nd."
+    "response": "Week of October 2nd"
   },
   {
     "questions": ["When to expect midterm"],
-    "response": "Week of October 2nd."
+    "response": "Week of October 2nd"
   },
   {
     "questions": ["When is the midterm exam"],
-    "response": "Week of October 2nd."
+    "response": "Week of October 2nd"
   },
   {
     "questions": ["When will the midterm be"],
-    "response": "Week of October 2nd."
+    "response": "Week of October 2nd"
   },
   {
     "questions": ["When would the midterm exam be"],
-    "response": "Week of October 2nd."
+    "response": "Week of October 2nd"
   },
   {
     "questions": ["When to expect midterm examination"],
-    "response": "Week of October 2nd."
+    "response": "Week of October 2nd"
   },
   {
     "questions": ["When is the midterm examination"],
-    "response": "Week of October 2nd."
+    "response": "Week of October 2nd"
   },
   {
     "questions": ["What's the final exam's date"],
-    "response": "Week of November 27th."
+    "response": "Week of November 27th"
   },
   {
     "questions": ["What's the final examination's day"],
-    "response": "Week of November 27th."
+    "response": "Week of November 27th"
   },
   {
     "questions": ["When is the final"],
-    "response": "Week of November 27th."
+    "response": "Week of November 27th"
   },
   {
     "questions": ["When is the date of the final"],
-    "response": "Week of November 27th."
+    "response": "Week of November 27th"
   },
   {
     "questions": ["When to expect finals"],
-    "response": "Week of November 27th."
+    "response": "Week of November 27th"
   },
   {
     "questions": ["When is the final exam"],
-    "response": "Week of November 27th."
+    "response": "Week of November 27th"
   },
   {
     "questions": ["When would the final be"],
-    "response": "Week of November 27th."
+    "response": "Week of November 27th"
   },
   {
     "questions": ["When will the final exam"],
-    "response": "Week of November 27th."
+    "response": "Week of November 27th"
   },
   {
     "questions": ["When to expect final examination"],
-    "response": "Week of November 27th."
+    "response": "Week of November 27th"
   },
   {
     "questions": ["What's the date of the final exam"],
-    "response": "Week of November 27th."
+    "response": "Week of November 27th"
   },
   {
     "questions": ["What's the final exam's date"],
-    "response": "Week of November 27th."
+    "response": "Week of November 27th"
   },
   {
     "questions": ["What's the final exam's day"],
-    "response": "Week of November 27th."
+    "response": "Week of November 27th"
   },
   {
     "questions": ["Who is the professor for this class"],
-    "response": "Professor Goel."
+    "response": "Professor Goel"
   },
   {
     "questions": ["Who is the professor of the course"],
-    "response": "Professor Goel."
+    "response": "Professor Goel"
   },
   {
     "questions": ["Who is the instructor of the class"],
-    "response": "Professor Goel."
+    "response": "Professor Goel"
   },
   {
     "questions": ["Who teaches the course"],
-    "response": "Professor Goel."
+    "response": "Professor Goel"
   },
   {
     "questions": ["Who teaches KBAI"],
-    "response": "Professor Goel."
+    "response": "Professor Goel"
   },
   {
     "questions": ["Who is the tutor for this class"],
-    "response": "Professor Goel."
+    "response": "Professor Goel"
   },
   {
     "questions": ["Who is the lecturer of the course"],
-    "response": "Professor Goel."
+    "response": "Professor Goel"
   },
   {
     "questions": ["Who is the teacher of the class"],
-    "response": "Professor Goel."
+    "response": "Professor Goel"
   },
   {
     "questions": ["Who is professor Goel"],
-    "response": "The professor for this class."
+    "response": "The professor for this class"
   },
   {
     "questions": ["Who is Goel"],
-    "response": "The professor for this class."
+    "response": "The professor for this class"
   },
   {
     "questions": ["Who is Prof Goel"],
-    "response": "The professor for this class."
+    "response": "The professor for this class"
   },
   {
     "questions": ["Who is Dr. Goel"],
-    "response": "The professor for this class."
+    "response": "The professor for this class"
   },
   {
     "questions": ["Who is Mr. Goel"],
-    "response": "The professor for this class."
+    "response": "The professor for this class"
   }
 ]

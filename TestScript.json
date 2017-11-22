@@ -888,5 +888,122 @@
   {
     "questions": ["I received nine peer feedback requests, do I need to do them all??"],
     "response": "No, there was a mistake made, you only need to choose three."
+  },
+    {
+    "questions":["When is the KBAI class held?"],
+    "response":"I do not know.",
+    "replace":"9:00am to 9:55am on Monday,Wednesday and Friday"
+  },
+  {
+    "questions":["What are the timings of the KBAI class?"],
+    "response":"9:00am to 9:55am on Monday,Wednesday and Friday"
+  },
+  {
+    "questions":["What is the weekly schedule of the KBAI class?"],
+    "response":"9:00am to 9:55am on Monday,Wednesday and Friday"
+  },
+  {
+    "questions":["When are knowledge based AI classes held?"],
+    "response":"9:00am to 9:55am on Monday,Wednesday and Friday"
+  },
+  {
+    "questions":["Are there guest lectures"],
+    "response":"I do not know.",
+    "replace":"Yes"
+  },
+  {
+    "questions":["Are there guest lectures"],
+    "response":"Yes"
+  },
+  {
+    "questions":["Will some of the classes have lectures by guests"],
+    "response":"Yes"
+  },
+  {
+    "questions":["Where can I find the paper on Fractal Analysis?"],
+    "response":"I do not know.",
+    "replace":"You can find it under the resources tab in T-square."
+  },
+  {
+    "questions":["How can I access the Fractal Analysis paper?"],
+    "response":"You can find it under the resources tab in T-square."
+  },
+  {
+    "questions":["What is the name under which Jill Watson operates?"],
+    "response":"I do not know.",
+    "replace":"That will be revealed at the end of the semester."
+  },
+  {
+    "questions":["Which TA is Jill Watson"],
+    "response":"That will be revealed at the end of the semester."
+  },
+  {
+    "questions":["When will the identity of Jill Watson be revealed?"],
+    "response":"That will be revealed at the end of the semester."
+  },
+  {
+    "questions":["What kind of ethics should AI have?"],
+    "response":"I do not know.",
+    "replace":"That is a question open to everyone and has no definite answer."
+  },
+  {
+    "questions":["Whose ethics should AI have?"],
+    "response":"That is a question open to everyone and has no definite answer."
+  },
+  {
+    "questions":["What kind of morality should AI have"],
+    "response":"That is a question open to everyone and has no definite answer."
+  },
+  {
+    "questions":["Whose morals should AI have?"],
+    "response":"That is a question open to everyone and has no definite answer."
+  },
+  {
+    "questions":["Will the grades of students working on the alternate project be normalized against those working on RPM"],
+    "response":"I do not know.",
+    "replace":"Yes"
+  },
+  {
+    "questions":["Are the alternate project grades normalized with grades on the RPM project"],
+    "response":"Yes"
+  },
+  {
+    "questions":["Is the Rubric the same for all projects?"],
+    "response":"I do not know.",
+    "replace":"No, we will change it according to the nature of the assignment or project"
+  },
+  {
+    "questions":["Will the Rubric remain constant?"],
+    "response":"No, we will change it according to the nature of the assignment or project"
+  },
+  {
+    "questions":["Does the Rubric remain fixed?"],
+    "response":"No, we will change it according to the nature of the assignment or project"
+  },
+  {
+    "questions":["I do not know Java or Python can I still take this class"],
+    "response":"I do not know.",
+    "replace":"The projects of this class are very open-ended and a student new to Python or Java might find it difficult to cope."
+  },
+  {
+    "questions":["Should I register for this class if I don't know Python or Java?"],
+    "response":"The projects of this class are very open-ended and a student new to Python or Java might find it difficult to cope."
+  },
+  {
+    "questions":["Can I cope with this class if I don't know Python or Java?"],
+    "response":"The projects of this class are very open-ended and a student new to Python or Java might find it difficult to cope."
+  },
+  {
+    "questions":["Is attendance mandatory"],
+    "response":"I do not know.",
+    "replace":"It is not mandatory, but it accounts for 8% of your grade."
+  },
+  {
+    "questions":["Do I have to attend the class"],
+    "response":"It is not mandatory, but it accounts for 8% of your grade."
+  },
+  {
+    "questions":["Is it compolsury to attend class"],
+    "response":"It is not mandatory, but it accounts for 8% of your grade."
   }
 ]
